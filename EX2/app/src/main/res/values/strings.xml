@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EX2</string>
+    <string name="prix_unitaire">price</string>
+    <string name="quantite_produits">quantity</string>
+    <string name="Calculate_price">Calculate Price</string>
+    <string name="Apply_Taxe">Apply Taxe ?</string>
+    <string name="Total">Total: %s</string>
+</resources>
